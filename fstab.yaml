@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p34633-e913315.adobeaemcloud.com/atellez-hiberuscom/edsfrescopa/main
+    url: https://author-p34633-e913315.adobeaemcloud.com/bin/franklin.delivery/atellez-hiberuscom/edsfrescopa/main
     type: "markup"
     suffix: ".html"
